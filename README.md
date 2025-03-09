@@ -5,8 +5,3 @@
 - 📫 How to reach me is on https://www.linkedin.com/in/grace-kaimburi/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am funny
-
-<!---
-GraceKaimburi/GraceKaimburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
